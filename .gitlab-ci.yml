@@ -1,0 +1,10 @@
+include:
+  - project: "platform/pipelines-templates"
+    file: "/build/node/template-react-yarn.yml"
+    ref: master
+
+default:
+  image: node:18
+
+variables:
+  IMAGE_NAME: sample-app/sample-app

@@ -1,1 +1,1 @@
-# mia-platform-gatsby-template
+# Mia Platform Gatsby Template
